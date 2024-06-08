@@ -35012,7 +35012,7 @@ const ViewAll = () => {
 
             <NavBar />
             <br />
-            <center><h1>View Album</h1></center>
+            <center><h1>View photos</h1></center>
             <br />
 
             <div className="container">
